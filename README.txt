@@ -1,1 +1,0 @@
-Open Game.pde and run to start game
